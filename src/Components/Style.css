@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Merriweather:wght@300&family=PT+Sans+Narrow:wght@400;700&family=Roboto:wght@100&display=swap');
+
+.btn1{
+    height: 70px;
+    width: 180px;
+    border: 1px solid rgb(248, 104, 104);
+    border-radius: 50px;
+    background-color: rgb(206, 249, 249);
+    font-size: 17px;
+    color: rgb(29, 29, 221);
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+.login{
+    text-align: center;   
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(29, 29, 221);
+}
+.modal{
+    border: 2px solid;
+    width: 500px;
+    margin-left: 35%;
+    margin-top: 100px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(29, 29, 221);
+}
+input{
+    height: 35px;
+    width: 300px;
+    border: 2px solid;
+}
+.btn2{
+    height: 40px;
+    width: 100px;
+    border: 2px solid;
+    font-size: large;
+    background-color: aqua;
+    color: rgb(29, 29, 221);
+}
+.tooltip{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(29, 29, 221);
+}
+.home{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(29, 29, 221);
+}
